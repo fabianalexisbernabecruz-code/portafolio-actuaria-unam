@@ -1,6 +1,6 @@
 No	Apellido	Apellido 2	Nombre	Carrera	Correo	Telefono
 1	Alemán	Galicia	Diego Leónardo	C. Computación	alemanlex_plus_cool@hotmail.com	44-635-28-288
-2	Amador	Gónzalez	Noé Eusebio	Aplicadas	noe.amadorg@ciencias.unam.mx	55-640-83-871
+2	Gonzalez	Martinez	Carlos Eduardo	Aplicadas	carlos.gonzalez@ciencias.unam.mx	55-640-83-871
 3	Amaro	Islas	Yamile Amalia Zulema	Actuaría	aminahelue@ciencias.unam.mx	55-4977-6159
 4	Cabrera	Pérez	Rodrígo	Actuaría	rodri030100@gmail.com	55-477-61-948
 5	Cazares	Solis	Andrea Nicole	Actuaría	nicolecazares141@gmail.com	55-539-42-382
